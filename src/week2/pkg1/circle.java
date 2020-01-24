@@ -12,7 +12,7 @@ package week2.pkg1;
 public class circle {
     
     public double radius;
-    
+    private double r;
     public double areaCircle()
     {
         return 3.14*radius*radius;
